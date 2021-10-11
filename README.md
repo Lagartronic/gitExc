@@ -1,2 +1,2 @@
 # gitExc
-ejercicios git
+ejercicios git primera línea generada desde github
